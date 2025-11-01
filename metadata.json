@@ -1,0 +1,7 @@
+{
+  "name": "Dignified Endings Directive",
+  "description": "An application to help individuals document their health status, end-of-life wishes, and create an advance directive, inspired by the principles of 'Mary Kills People'. This app facilitates clear communication of one's choices regarding medical care.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
